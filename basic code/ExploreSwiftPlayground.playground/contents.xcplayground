@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Let, Var, String, Array, Struct, Optionals'/>
+        <page name='Data Types, for loop'/>
+        <page name='Multi-line strings'/>
+        <page name='More on loops'/>
+        <page name='Gaurd'/>
+        <page name='Tuples and named tuples'/>
+        <page name='Enumerations'/>
+    </pages>
+</playground>
